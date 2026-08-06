@@ -1,5 +1,6 @@
-# degree-work
-PTI Msc degree work
+Degree-work
+
+PTI Msc
 
 Title is paired work scheduling algorithms. I complated it with heuristic solutions and solved the problems the way of combinatorically.
 
