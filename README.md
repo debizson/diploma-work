@@ -1,4 +1,4 @@
-# diploma-work
+# degree-work
 PTI Msc degree work
 
 Title is paired work scheduling algorithms. I complated it with heuristic solutions and solved the problems the way of combinatorically.
